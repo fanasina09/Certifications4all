@@ -4,14 +4,9 @@ Everyone deserves a good education, but only those who have received one can sha
 
 # Free Certifications
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/cloudcommunity/Free-Certifications?style=social)](https://github.com/cloudcommunity/Free-Certifications)
-[![Twitter Follow](https://img.shields.io/twitter/follow/CloudStudyNet?style=social)](https://twitter.com/CloudStudyNet)
-
 A curated list of free courses &amp; certifications. Don't forget to star ⭐ this repository.
 
 The offers on top of the table are time-limited and will expire soon. So, hurry up and grab them first!
-
-🎉 Brought to you by the [Cloud Study Network](https://www.meetup.com/Cloud-Study-Network/) - a global tech community that shares knowledge, goodies and good vibes! 🎉
 
 ## Table of Contents
 
